@@ -5,8 +5,8 @@
     "authors": [
         {
             "name": "author name",
-            "email": "author email",
-            "homepage": "author homepage"
+            "email": "ya.tolik@yandex.ru",
+            "homepage": "https://laravel.demiart.ru/how-to-fork-and-maintain-github-package/"
         }
     ],
     "homepage": "https://github.com/myvendor/mypackage",
